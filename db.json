@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "serverda",
+      "comp": false,
+      "id": 3
+    },
+    {
+      "title": "adada",
+      "comp": false,
+      "id": 6
+    },
+    {
+      "title": "asfa",
+      "comp": false,
+      "id": 7
+    },
+    {
+      "title": "dasda",
+      "comp": false,
+      "id": 8
+    },
+    {
+      "title": "dad",
+      "comp": false,
+      "id": 9
+    },
+    {
+      "title": "adada",
+      "comp": false,
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
